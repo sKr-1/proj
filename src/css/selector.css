@@ -1,0 +1,52 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+}
+
+.container{
+    padding: 100px;
+    justify-content: center;
+}
+.selector{
+    margin: 0 auto;
+    justify-content: center;
+}
+.LinkActive {
+    margin: auto;
+    background-color: #ed9510;   
+    color: white;
+    padding: 5px 15px;
+    height: fit-content;
+    margin: auto;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.LinkActive:hover{
+    background-color: #3dd71a;   
+    color: white;
+    padding: 5px 15px;
+    height: fit-content;
+    margin: auto;
+    border-radius: 2px;
+    text-decoration: none; 
+}
+.LinkDisabled {
+    color: white;
+    padding: 5px 15px;
+    height: fit-content;
+    margin: auto;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.LinkDisabled:hover{
+    color: white;
+    padding: 5px 15px;
+    height: fit-content;
+    margin: auto;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
