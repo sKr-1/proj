@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Templates>
+    <Template>
+        <issueName>issueName1</issueName>
+        <category>category1</category>
+        <title>title1</title>
+        <description>description1</description>
+        <assignedFolder>assignedFolder1</assignedFolder>
+    </Template>
+    <Template>
+        <issueName>issueName2</issueName>
+        <category>category2</category>
+        <title>title2</title>
+        <description>description2</description>
+        <assignedFolder>assignedFolder2</assignedFolder>
+    </Template>
+    <Template>
+        <issueName>issueName3</issueName>
+        <category>category3</category>
+        <title>title3</title>
+        <description>description3</description>
+        <assignedFolder>assignedFolder3</assignedFolder>
+    </Template>
+    <Template>
+        <issueName>issueName4</issueName>
+        <category>category4</category>
+        <title>title4</title>
+        <description>description4</description>
+        <assignedFolder>assignedFolder4</assignedFolder>
+    </Template>
+    <Template>
+        <issueName>issueName5</issueName>
+        <category>category5</category>
+        <title>title5</title>
+        <description>description5</description>
+        <assignedFolder>assignedFolder5</assignedFolder>
+    </Template>
+
+    <Template>
+        <issueName>issueName6</issueName>
+        <category>category6</category>
+        <title>title6</title>
+        <description>description6</description>
+        <assignedFolder>assignedFolder6</assignedFolder>
+    </Template>
+</Templates>
